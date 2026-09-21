@@ -12,3 +12,4 @@ Ultralytics/
 *.pem
 *.key
 .vscode/
+runs/
